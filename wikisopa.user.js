@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name           Wikipedia Sopa Remove
-// @namespace      darkiron
+// @namespace      mmorrison
 // @include        http://wiki.greasespot.net/Greasemonkey_Manual:Installing_Scripts
 // @require        http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.js
 // ==/UserScript==
