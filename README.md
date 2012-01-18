@@ -1,3 +1,3 @@
 # Wikipedia Anti-SOPA Blackout Greasemonkey Script 
 
-This is a Greasemonkey script to view wikipedia during the Anti-SOPA Blackout.
+Keep using Wikipedia, but don't forget to inform your Representative of your opposition to SOPA and PIPA
