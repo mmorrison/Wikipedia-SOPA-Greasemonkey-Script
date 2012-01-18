@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name           Wikipedia Sopa Remove
+// @name           Wikipedia Anti-SOPA Blackout Remove
 // @namespace      mmorrison
 // @include        http://en.wikipedia.org/*
 // @require        http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.js
